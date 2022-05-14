@@ -1,3 +1,5 @@
-.bg-purple{
-    color: #dab9e6;
+body> .container{
+    margin: 20px;
+    padding: 20px;
+    border-style: none;
 }
