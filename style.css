@@ -1,11 +1,10 @@
-body> .container{
-    margin: 20px;
-    padding: 20px;
-    border-style: none;
+.set-0{
+    padding: 0;
+    margin: 0;
 }
-.card>img {   
-    margin: 0.8rem;   
-    padding: 0.8rem;   
-    height: 20vh;   o
-    object-fit: contain: ;
-} 
+.card>img {
+    margin: 0.8rem;
+    padding: 0.8rem;
+    height: 20vh;
+    object-fit: contain;
+}
