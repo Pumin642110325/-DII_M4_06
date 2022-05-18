@@ -21,3 +21,18 @@
     max-height:7rem;
     object-fit: cover;
 }
+@media screen and (max-width: 1024px) {
+    .logo {
+        float: center;
+        width: 20rem;
+        margin-right: 2rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .logo {
+        float: left;
+        width: 10rem;
+        margin-right: 2rem;
+    }
+}
